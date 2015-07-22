@@ -15,7 +15,6 @@ Dobby as standalone service.
 
 <!-- markdown-toc end -->
 
-
 ## Requirements
 - Erlang R17+
 
